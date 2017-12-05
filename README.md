@@ -1,1 +1,1 @@
- My rectangle project 
+ My rectangle projects 
